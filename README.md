@@ -1,17 +1,17 @@
-# 📊 SQL Database Management & Data Analysis (Oracle)
+# SQL Database Management & Data Analysis (Oracle)
 
 This repository showcases SQL projects developed in **Oracle SQL Developer**, along with supporting **Excel models** demonstrating **functional dependencies, normalization (1NF → 3NF), and entity-relationship diagrams (ERDs)**.  
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 - SQL (Oracle SQL Developer)  
 - Excel (diagrams & normalization steps)  
 - Data Modeling (FDs, ERDs, Normal Forms)  
 
 ---
 
-## 📂 Project Parts
+## Project Parts
 
 ### **Part 1 – SQL Queries & Reporting**
 - Extracted and formatted customer and sales data from relational tables (`CUSTOMER_mfm`, `SALESREP_mfm`, `ORDER_mfm`, `PRODUCT_mfm`).  
@@ -34,7 +34,7 @@ This repository showcases SQL projects developed in **Oracle SQL Developer**, al
 
 ---
 
-## 🧩 Data Modeling & Normalization (Excel)
+## Data Modeling & Normalization (Excel)
 The **Excel workbook** includes:  
 - **Functional Dependency Diagrams**  
 - **Normalization process from 1NF → 2NF → 3NF**  
